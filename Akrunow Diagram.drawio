@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T05:57:41.416Z" agent="5.0 (X11)" etag="kGDix9JQbBDSYIXN2HSL" version="15.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T06:01:35.872Z" agent="5.0 (X11)" etag="-WuDwkuY-IpAU3LNI21Y" version="15.1.1" type="github">
   <diagram id="d0IOnl57yeLx4D1jZ1gS" name="Page-1">
     <mxGraphModel dx="1260" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
         <mxCell id="KzMME8AJnO-x6P3zgn9o-73" value="&lt;font color=&quot;#FF3333&quot;&gt;&lt;b&gt;*Fronend relevent file &lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1371" y="-380" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KzMME8AJnO-x6P3zgn9o-74" value="&lt;font color=&quot;#FF3333&quot;&gt;&lt;b&gt;File:&lt;/b&gt;&lt;/font&gt; components/landing/landaing.vue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="KzMME8AJnO-x6P3zgn9o-74" value="&lt;font color=&quot;#FF3333&quot;&gt;&lt;b&gt;File:&lt;/b&gt;&lt;/font&gt; components/getstarted/getstarted.vue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1341" y="-360" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
