@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T11:28:51.437Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="yH9rjNMdBEp_7CNXkc5z" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T11:30:56.017Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="OWZUrQcT3BNdB0F5o0-Z" version="15.3.5" type="github">
   <diagram id="a9izbRfq0SU552fFDoHC" name="Page-1">
     <mxGraphModel dx="1061" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,15 +33,6 @@
         </mxCell>
         <mxCell id="eP0lufbsr8X0sNE1XfRG-5" value="action &quot;index&quot; of &quot;coupons&quot; make GET request at the endpoint &quot;&lt;span style=&quot;color: rgb(80 , 80 , 80) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;http://192.168.23.28:8000/v1/saxo/coupons/&quot;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Authorization: &quot;Bearer &quot; + cookies.get(&quot;x-access-token&quot;)&amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; params: accessToken&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; };&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;With empty request body&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="270" width="260" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="eP0lufbsr8X0sNE1XfRG-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="eP0lufbsr8X0sNE1XfRG-6" target="eP0lufbsr8X0sNE1XfRG-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eP0lufbsr8X0sNE1XfRG-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="eP0lufbsr8X0sNE1XfRG-6" target="eP0lufbsr8X0sNE1XfRG-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eP0lufbsr8X0sNE1XfRG-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="eP0lufbsr8X0sNE1XfRG-6" target="eP0lufbsr8X0sNE1XfRG-22">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eP0lufbsr8X0sNE1XfRG-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="eP0lufbsr8X0sNE1XfRG-6" target="eP0lufbsr8X0sNE1XfRG-24">
           <mxGeometry relative="1" as="geometry" />
