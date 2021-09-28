@@ -1,17 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T18:44:02.120Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="TP1kHNvsHlQOGPz7IjrQ" version="15.3.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-28T19:33:07.967Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="OOXuh-327GfmL6XJxST5" version="15.3.5" type="github" pages="2">
   <diagram id="a9izbRfq0SU552fFDoHC" name="Page-1">
-    <mxGraphModel dx="1327" dy="3022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1592" dy="3186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-68" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-37" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=default;gradientColor=none;align=left;verticalAlign=middle;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="40" width="680" height="440" as="geometry" />
-        </mxCell>
         <mxCell id="tfMDLcPmmIEoGKfM7z7v-45" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="eP0lufbsr8X0sNE1XfRG-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="-1570" as="targetPoint" />
@@ -24,39 +16,33 @@
         <mxCell id="eP0lufbsr8X0sNE1XfRG-2" value="&lt;div&gt;&lt;b style=&quot;text-align: center&quot;&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Page of Promo&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;File location: pages/cio/manual/index.vue&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;In template of page, in&amp;nbsp;&lt;/font&gt;&amp;lt;v-tab-item&amp;gt;&amp;nbsp;Iteration is carried out over computer property &quot;coupons&quot; and plugin the following values in the template&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;coupons&lt;/span&gt;&lt;font style=&quot;font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;.&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;code&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34;&quot;&gt;coupons.expiration_date&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34;&quot;&gt;coupons.benefit.amount_rm&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34;&quot;&gt;coupons.max_number_of_usage&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34;&quot;&gt;coupons.number_of_usage&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34;&quot;&gt;coupons.benefit&lt;font face=&quot;droid sans mono, monospace, monospace, droid sans fallback&quot;&gt;.&lt;/font&gt;no_fees&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;perimeterSpacing=3;" vertex="1" parent="1">
           <mxGeometry x="120" y="-2091" width="680" height="451" as="geometry" />
         </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-56" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1129.9999999999998" y="-979" as="targetPoint" />
-            <mxPoint x="1312" y="-979" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eP0lufbsr8X0sNE1XfRG-6" value="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Response from Index action:&lt;/b&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;[&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;id&quot;: 6,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;benefit&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;id&quot;: 6,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;is_deleted&quot;: false,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;created_at&quot;: &quot;2021-09-27T07:55:45.926106Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;modified_at&quot;: &quot;2021-09-27T07:55:45.926127Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;amount_rm&quot;: 0.0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;no_fees&quot;: true&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;is_deleted&quot;: false,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;created_at&quot;: &quot;2021-09-27T07:55:45.935637Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;modified_at&quot;: &quot;2021-09-27T07:55:45.935663Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;code&quot;: &quot;WJgCAIQQg76riATk&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;expiration_date&quot;: &quot;2021-09-28&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;number_of_usage&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;max_number_of_usage&quot;: 1,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;users&quot;: []&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;id&quot;: 7,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;benefit&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;id&quot;: 7,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;is_deleted&quot;: false,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;created_at&quot;: &quot;2021-09-27T07:56:22.555397Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;modified_at&quot;: &quot;2021-09-27T07:56:22.555425Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;amount_rm&quot;: 23.0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;no_fees&quot;: false&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;is_deleted&quot;: false,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;created_at&quot;: &quot;2021-09-27T07:56:22.565906Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;modified_at&quot;: &quot;2021-09-27T07:56:22.565946Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;code&quot;: &quot;WJgCAIQQg76riATk&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;expiration_date&quot;: &quot;2021-09-30&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;number_of_usage&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;max_number_of_usage&quot;: 12,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;users&quot;: []&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;]&lt;/div&gt;&lt;/blockquote&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="-1270" width="360" height="600" as="geometry" />
+        <mxCell id="eP0lufbsr8X0sNE1XfRG-6" value="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Response from Index action:&lt;/b&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;[&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;id&quot;: 6,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;benefit&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;id&quot;: 6,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;is_deleted&quot;: false,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;created_at&quot;: &quot;2021-09-27T07:55:45.926106Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;modified_at&quot;: &quot;2021-09-27T07:55:45.926127Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;amount_rm&quot;: 0.0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;no_fees&quot;: true&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;is_deleted&quot;: false,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;created_at&quot;: &quot;2021-09-27T07:55:45.935637Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;modified_at&quot;: &quot;2021-09-27T07:55:45.935663Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;code&quot;: &quot;WJgCAIQQg76riATk&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;expiration_date&quot;: &quot;2021-09-28&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;number_of_usage&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;max_number_of_usage&quot;: 1,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;users&quot;: []&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;id&quot;: 7,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;benefit&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;id&quot;: 7,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;is_deleted&quot;: false,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;created_at&quot;: &quot;2021-09-27T07:56:22.555397Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;modified_at&quot;: &quot;2021-09-27T07:56:22.555425Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;amount_rm&quot;: 23.0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;no_fees&quot;: false&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;is_deleted&quot;: false,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;created_at&quot;: &quot;2021-09-27T07:56:22.565906Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;modified_at&quot;: &quot;2021-09-27T07:56:22.565946Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;code&quot;: &quot;WJgCAIQQg76riATk&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;expiration_date&quot;: &quot;2021-09-30&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;number_of_usage&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;max_number_of_usage&quot;: 12,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;users&quot;: []&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;]&lt;/div&gt;&lt;/blockquote&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="-1270" width="360" height="670" as="geometry" />
         </mxCell>
         <mxCell id="eP0lufbsr8X0sNE1XfRG-7" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="632.5" y="-1180" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="eP0lufbsr8X0sNE1XfRG-14" value="&lt;b style=&quot;font-size: 14px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/b&gt;&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;changeType&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;File location: pages/cio/manual/index.vue&lt;/li&gt;&lt;li&gt;Executed if a type is selected from dropdown&lt;/li&gt;&lt;li&gt;Updates the boolean variables&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="122.5" y="50" width="677.5" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-71" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="eP0lufbsr8X0sNE1XfRG-18">
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-91" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="eP0lufbsr8X0sNE1XfRG-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="462.5" y="990" as="targetPoint" />
+            <mxPoint x="460" y="430.00000000000045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eP0lufbsr8X0sNE1XfRG-18" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; createPromo&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;File location: pages/cio/manual/index.vue&lt;/li&gt;&lt;li&gt;dispatch action &#39;create&#39;&amp;nbsp; with payload &quot;promo&quot; in &quot;coupon&quot; store&lt;/li&gt;&lt;li&gt;Reset &quot;promo&quot; and &quot;dialog&quot; to previous initial values:&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;promo={type:&#39;amount&#39;,no_fees:false}&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;dialog =false&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=default;fillColor=default;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="122.5" y="800" width="680" height="120" as="geometry" />
+        <mxCell id="eP0lufbsr8X0sNE1XfRG-18" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; createPromo&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;File location: pages/cio/manual/index.vue&lt;/li&gt;&lt;li&gt;dispatch action &#39;create&#39;&amp;nbsp; with payload &quot;promo&quot; in &quot;coupon&quot; store&lt;/li&gt;&lt;li&gt;Reset &quot;promo&quot; and &quot;dialog&quot; to previous initial values:&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;promo={type:&#39;amount&#39;,no_fees:false}&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;dialog =false&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;dispatch action &#39;index&#39;&amp;nbsp; with payload &quot;promo&quot; in &quot;coupon&quot; store&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="680" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-107" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="eP0lufbsr8X0sNE1XfRG-19" target="tfMDLcPmmIEoGKfM7z7v-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eP0lufbsr8X0sNE1XfRG-19" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: normal ; white-space: pre&quot;&gt;	&lt;/span&gt;Response&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;/h1&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;p&gt;{&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &quot;id&quot;: 10,&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &quot;benefit&quot;: {&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;id&quot;: 10,&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;is_deleted&quot;: false,&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;created_at&quot;: &quot;2021-09-28T09:13:35.533629Z&quot;,&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;modified_at&quot;: &quot;2021-09-28T09:13:35.533653Z&quot;,&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;amount_rm&quot;: 50.0,&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;no_fees&quot;: false&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; },&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &quot;is_deleted&quot;: false,&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &quot;created_at&quot;: &quot;2021-09-28T09:13:35.540160Z&quot;,&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &quot;modified_at&quot;: &quot;2021-09-28T09:13:35.540176Z&quot;,&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &quot;code&quot;: &quot;DsqJqLTGiCjsDlQO&quot;,&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &quot;expiration_date&quot;: &quot;2021-09-09&quot;,&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &quot;number_of_usage&quot;: 0,&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &quot;max_number_of_usage&quot;: 3,&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &quot;users&quot;: []&lt;/p&gt;&lt;p&gt;}&lt;/p&gt;&lt;/blockquote&gt;" style="text;html=1;strokeColor=default;fillColor=default;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="930" width="360" height="550" as="geometry" />
+          <mxGeometry x="1320" y="590" width="360" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-61" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="eP0lufbsr8X0sNE1XfRG-12">
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-80" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="eP0lufbsr8X0sNE1XfRG-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="461.25" y="30" as="targetPoint" />
+            <mxPoint x="1300" y="-240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eP0lufbsr8X0sNE1XfRG-12" value="Select an option from dropdown" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="361.25" y="-80" width="200" height="40" as="geometry" />
+          <mxGeometry x="1200" y="-360" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tfMDLcPmmIEoGKfM7z7v-59" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="eP0lufbsr8X0sNE1XfRG-9">
           <mxGeometry relative="1" as="geometry">
@@ -74,56 +60,27 @@
         <mxCell id="eP0lufbsr8X0sNE1XfRG-51" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; color: rgb(80, 80, 80); font-family: opensans, helvetica, arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;http://192.168.23.28:8000/v1/saxo/coupons/&quot;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="930" y="-1150" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-57" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="eP0lufbsr8X0sNE1XfRG-66">
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-57" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="810" y="-980" as="targetPoint" />
+            <mxPoint x="1300" y="-980" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="eP0lufbsr8X0sNE1XfRG-66" value="Reponse" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-1000" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-67" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-12" target="tfMDLcPmmIEoGKfM7z7v-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Fee Benefits&lt;/span&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="180.5" y="240" width="119" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-66" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-13" target="tfMDLcPmmIEoGKfM7z7v-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-13" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Amount&lt;/span&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-14" value="&lt;div style=&quot;text-align: left&quot;&gt;amountFlag = true&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;promo.no_fees = true&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="320" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-15" value="&lt;div style=&quot;text-align: left&quot;&gt;amountFlag = false&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;promo.no_fees = false&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="601.25" y="320" width="157.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="320" y="160" width="270" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-8" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="tfMDLcPmmIEoGKfM7z7v-17">
-          <mxGeometry width="270" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-9" value="Selection option from dropdown" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="tfMDLcPmmIEoGKfM7z7v-17">
-          <mxGeometry x="70" y="30" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tfMDLcPmmIEoGKfM7z7v-69" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="670" as="targetPoint" />
+            <mxPoint x="457.5" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tfMDLcPmmIEoGKfM7z7v-19" value="Generate Button" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="397.5" y="-70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tfMDLcPmmIEoGKfM7z7v-70" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="463" y="790" as="targetPoint" />
+            <mxPoint x="460.5" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tfMDLcPmmIEoGKfM7z7v-20" value="Click" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tfMDLcPmmIEoGKfM7z7v-58" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-22">
           <mxGeometry relative="1" as="geometry">
@@ -138,8 +95,8 @@
             <mxPoint x="919.9999999999998" y="-1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eP0lufbsr8X0sNE1XfRG-5" value="&lt;span&gt;Header Authorization: &quot;Bearer &quot; +&amp;nbsp; token&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="582.5" y="-1160" width="217.5" height="40" as="geometry" />
+        <mxCell id="eP0lufbsr8X0sNE1XfRG-5" value="&lt;span&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; Only&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;Authorization header with token&lt;b&gt;&lt;br&gt;&amp;nbsp; &lt;br&gt;&amp;nbsp; Example&lt;br&gt;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;Authorization:&lt;span&gt;&lt;br&gt;&amp;nbsp; Bearer eyJ0eXAiOiJKV1QiLCJhbGc&lt;br&gt;&amp;nbsp; iOiJIUzI1NiJ9.eyJ1c2VyX2l&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="581.5" y="-1200" width="217.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tfMDLcPmmIEoGKfM7z7v-53" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-23">
           <mxGeometry relative="1" as="geometry">
@@ -192,9 +149,19 @@
         <mxCell id="tfMDLcPmmIEoGKfM7z7v-36" value="Amount" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="-1720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-60" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-3">
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-79" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="461.25" y="-90" as="targetPoint" />
+            <mxPoint x="1190" y="-340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-81" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="458" y="-150" as="sourcePoint" />
+            <mxPoint x="458" y="-80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="458" y="-100" />
+              <mxPoint x="458" y="-100" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tfMDLcPmmIEoGKfM7z7v-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Generate Promo Code Window&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;File location: pages/cio/manual/index.vue&lt;/li&gt;&lt;li&gt;&lt;span&gt;There will be 4 field&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;select field for Type&lt;/li&gt;&lt;li&gt;Amount&lt;/li&gt;&lt;li&gt;Maximum number of usage&amp;nbsp;&lt;/li&gt;&lt;li&gt;Expiry date of coupon&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;All theses field have two-way binding with &quot;promo&quot;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;promo.type&lt;/li&gt;&lt;li&gt;promo.expiry_date&lt;/li&gt;&lt;li&gt;promo.amount&lt;/li&gt;&lt;li&gt;promo.max_number_of_usage&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&quot;promoSet&quot; is a dynamic attribute in v-select component&lt;/li&gt;&lt;li&gt;Keys in &quot;promoSet&quot; will appear as option in select type drop down&lt;/li&gt;&lt;li&gt;v-select is a component of vuetify UI library&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
@@ -203,16 +170,8 @@
         <mxCell id="eP0lufbsr8X0sNE1XfRG-13" value="&lt;span&gt;&lt;b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;promoSet&quot; and &quot;promo&quot;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;promoSet:[ {text:&quot;Amount&quot;,value:&quot;amount&quot;}, {text:&quot;Fee Benefits&quot;,value:&quot;fee_benefits&quot;} ]&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;promo: {type:&#39;amount&#39;,no_fees:false}&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="478.75" y="-440" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-72" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-38">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="462.5" y="1110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-38" value="Response" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="1000" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-39" value="This response is used to update state" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="361.25" y="1120" width="200" height="40" as="geometry" />
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-39" value="&lt;ul&gt;&lt;li&gt;This response is used to update state&lt;/li&gt;&lt;li&gt;Just send data of created promotion with its id&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1020" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tfMDLcPmmIEoGKfM7z7v-43" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-27" target="tfMDLcPmmIEoGKfM7z7v-34">
           <mxGeometry relative="1" as="geometry" />
@@ -220,11 +179,86 @@
         <mxCell id="tfMDLcPmmIEoGKfM7z7v-44" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-27" target="tfMDLcPmmIEoGKfM7z7v-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-63" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-8" target="tfMDLcPmmIEoGKfM7z7v-12">
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-75" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="970" y="-230" width="680" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-37" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=default;gradientColor=none;align=left;verticalAlign=middle;perimeterSpacing=0;" vertex="1" parent="tfMDLcPmmIEoGKfM7z7v-75">
+          <mxGeometry width="680" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-73" value="" style="group" vertex="1" connectable="0" parent="tfMDLcPmmIEoGKfM7z7v-75">
+          <mxGeometry x="2.5" y="10" width="677.5" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="eP0lufbsr8X0sNE1XfRG-14" value="&lt;b style=&quot;font-size: 14px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/b&gt;&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;changeType&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;File location: pages/cio/manual/index.vue&lt;/li&gt;&lt;li&gt;Executed if a type is selected from dropdown&lt;/li&gt;&lt;li&gt;Updates the boolean variables&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="tfMDLcPmmIEoGKfM7z7v-73">
+          <mxGeometry width="677.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-13" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Amount&lt;/span&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="tfMDLcPmmIEoGKfM7z7v-73">
+          <mxGeometry x="497.5" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-15" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;amountFlag = false&lt;/div&gt;&lt;div&gt;promo.no_fees = false&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="tfMDLcPmmIEoGKfM7z7v-73">
+          <mxGeometry x="478.75" y="270" width="157.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-66" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="tfMDLcPmmIEoGKfM7z7v-73" source="tfMDLcPmmIEoGKfM7z7v-13" target="tfMDLcPmmIEoGKfM7z7v-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tfMDLcPmmIEoGKfM7z7v-64" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-8" target="tfMDLcPmmIEoGKfM7z7v-13">
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-17" value="" style="group" vertex="1" connectable="0" parent="tfMDLcPmmIEoGKfM7z7v-73">
+          <mxGeometry x="197.5" y="110" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-8" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="tfMDLcPmmIEoGKfM7z7v-17">
+          <mxGeometry width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-9" value="Selection option from dropdown" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="tfMDLcPmmIEoGKfM7z7v-17">
+          <mxGeometry x="70" y="30" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-64" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="tfMDLcPmmIEoGKfM7z7v-73" source="tfMDLcPmmIEoGKfM7z7v-8" target="tfMDLcPmmIEoGKfM7z7v-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-74" value="" style="group" vertex="1" connectable="0" parent="tfMDLcPmmIEoGKfM7z7v-73">
+          <mxGeometry x="37.5" y="190" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Fee Benefits&lt;/span&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="tfMDLcPmmIEoGKfM7z7v-74">
+          <mxGeometry x="20.5" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-14" value="&lt;div style=&quot;text-align: left&quot;&gt;amountFlag = true&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;promo.no_fees = true&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="tfMDLcPmmIEoGKfM7z7v-74">
+          <mxGeometry y="80" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-67" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="tfMDLcPmmIEoGKfM7z7v-74" source="tfMDLcPmmIEoGKfM7z7v-12" target="tfMDLcPmmIEoGKfM7z7v-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-63" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="tfMDLcPmmIEoGKfM7z7v-73" source="tfMDLcPmmIEoGKfM7z7v-8" target="tfMDLcPmmIEoGKfM7z7v-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-99" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;Make account field disable&lt;/div&gt;&lt;div&gt;No value can be typed&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="tfMDLcPmmIEoGKfM7z7v-75">
+          <mxGeometry x="480" y="360" width="157.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-92" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="463" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-86" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; Action &quot;create&quot; of &quot;coupons&quot; store&lt;/font&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;File location: plugins/store/coupons/postActions.js&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Make the POST request&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=#FFFFFF;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="440" width="680" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-104" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-87" target="tfMDLcPmmIEoGKfM7z7v-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-87" value="&lt;span&gt;&lt;/span&gt;&amp;nbsp; &lt;b&gt;Request&lt;/b&gt;&lt;br&gt;&amp;nbsp; Authorization header with token&lt;b&gt;&lt;br&gt;&amp;nbsp; &lt;br&gt;&amp;nbsp; Request Example&lt;br&gt;&lt;/b&gt;&amp;nbsp;&amp;nbsp;Authorization:&lt;br&gt;&amp;nbsp; Bearer eyJ0eXAiOiJKV1QiLCJhbGc&lt;br&gt;&amp;nbsp; iOiJIUzI1NiJ9.eyJ1c2VyX2l&lt;br&gt;&lt;br&gt;&amp;nbsp; Body =&amp;nbsp;&lt;span&gt;{&lt;/span&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;type&quot;: &quot;Amount&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;amount&quot;: &quot;50&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;expiry_date&quot;: &quot;2021-09-09&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;max_number_of_usage&quot;: &quot;3&quot;&amp;nbsp;&lt;span&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="650" width="217.5" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-103" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630.0000000000002" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-88" value="GET" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="710" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-106" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="tfMDLcPmmIEoGKfM7z7v-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfMDLcPmmIEoGKfM7z7v-93" value="&lt;span style=&quot;font-family: opensans, helvetica, arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;http://192.168.23.28:8000/v1/saxo/coupons/&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="760" width="254" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
