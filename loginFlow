@@ -1,77 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T12:24:50.259Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="Y1UpIcMX2-84MRBPynWn" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T08:36:46.963Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="j_WWdIq1w2j1JyoNPKtA" version="15.3.5" type="github" pages="2">
   <diagram id="ZJs07MsXws7AllJ6jGz9" name="Page-1">
-    <mxGraphModel dx="878" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-1" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="30" width="780" height="1110" as="geometry" />
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-4" value="functionName:&amp;nbsp; login&lt;br&gt;&lt;br&gt;&lt;li&gt;Dispatch action &quot;auth/login&quot;&lt;/li&gt;&lt;li&gt;fileLocation: store/auth/index.js&lt;/li&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="-16" y="60" width="296" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-2" value="page: login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="15" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-3" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="35" width="360" height="745" as="geometry" />
-        </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-4" value="functionName:&amp;nbsp; login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="174" y="50" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="dkXeMGnDIzjb-UDgSz1t-6" target="dkXeMGnDIzjb-UDgSz1t-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-6" value="dispatch action &quot;auth/login&quot;&lt;br&gt;fileLocation: store/auth/index.js" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="185" y="70" width="220" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-7" value="action: login&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-7" value="action: login&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="295" y="140" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="dkXeMGnDIzjb-UDgSz1t-9" target="dkXeMGnDIzjb-UDgSz1t-11">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="dkXeMGnDIzjb-UDgSz1t-9" target="dkXeMGnDIzjb-UDgSz1t-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="dkXeMGnDIzjb-UDgSz1t-9" target="dkXeMGnDIzjb-UDgSz1t-21">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="dkXeMGnDIzjb-UDgSz1t-9" target="dkXeMGnDIzjb-UDgSz1t-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="dkXeMGnDIzjb-UDgSz1t-9" target="dkXeMGnDIzjb-UDgSz1t-16">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="dkXeMGnDIzjb-UDgSz1t-9" target="dkXeMGnDIzjb-UDgSz1t-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-9" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;align=left;" vertex="1" parent="1">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-9" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="182.5" y="180" width="335" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-10" value="&lt;span style=&quot;&quot;&gt;role: it send reqObj to endpoint &quot;account/login&quot;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-10" value="&lt;span style=&quot;&quot;&gt;role: it send reqObj to endpoint &quot;account/login&quot;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="225" y="190" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-8" value="&lt;div&gt;reqObj = {&lt;/div&gt;&lt;div&gt;username: i_mostlyrock@yahoo.com,&lt;/div&gt;&lt;div&gt;password: Test!234&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-8" value="&lt;div&gt;reqObj = {&lt;/div&gt;&lt;div&gt;username: i_mostlyrock@yahoo.com,&lt;/div&gt;&lt;div&gt;password: Test!234&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="230" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-11" value="mutation: login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-11" value="mutation: login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="370" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-12" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;align=center;" vertex="1" parent="1">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-12" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="185" y="400" width="330" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-14" value="&lt;b&gt;1) Response from action is passed to mutation&lt;br&gt;it stores the values in state variables&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;state.userId&lt;/li&gt;&lt;li&gt;state.token&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2) stores values from response in localstroage of the browser:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&quot;name&quot;, payload.first_name&lt;/li&gt;&lt;li&gt;&quot;email&quot;, payload.email&lt;/li&gt;&lt;li&gt;&quot;userId&quot;, payload.id&lt;/li&gt;&lt;li&gt;&quot;token&quot;, payload.access_token&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;3) Store access token in cookies with expiry time 7 days&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;cookies.set(&quot;x-access-token&quot;, payload.access_token, {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; expires: 7&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; })&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-14" value="&lt;b&gt;1) Response from action is passed to mutation&lt;br&gt;it stores the values in state variables&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;state.userId&lt;/li&gt;&lt;li&gt;state.token&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2) stores values from response in localstroage of the browser:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&quot;name&quot;, payload.first_name&lt;/li&gt;&lt;li&gt;&quot;email&quot;, payload.email&lt;/li&gt;&lt;li&gt;&quot;userId&quot;, payload.id&lt;/li&gt;&lt;li&gt;&quot;token&quot;, payload.access_token&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;3) Store access token in cookies with expiry time 7 days&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;cookies.set(&quot;x-access-token&quot;, payload.access_token, {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; expires: 7&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; })&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="410" width="310" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="dkXeMGnDIzjb-UDgSz1t-16" target="dkXeMGnDIzjb-UDgSz1t-19">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="dkXeMGnDIzjb-UDgSz1t-16" target="dkXeMGnDIzjb-UDgSz1t-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-16" value="access_token is passed to decode function&lt;br&gt;&lt;br&gt;it dispatches the action &quot;decodeToken/createDecode&quot; with token as the payload&lt;br&gt;&lt;b&gt;located&lt;/b&gt;: plugins/store/postActions&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-16" value="access_token is passed to decode function&lt;br&gt;&lt;br&gt;it dispatches the action &quot;decodeToken/createDecode&quot; with token as the payload&lt;br&gt;&lt;b&gt;located&lt;/b&gt;: plugins/store/postActions&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="580" y="260" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-18" value="function: decode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-18" value="function: decode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="240" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="dkXeMGnDIzjb-UDgSz1t-19" target="dkXeMGnDIzjb-UDgSz1t-20">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="dkXeMGnDIzjb-UDgSz1t-19" target="dkXeMGnDIzjb-UDgSz1t-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-19" value="&lt;div style=&quot;text-align: left&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Authorization: &quot;Bearer &quot; + cookies.get(&quot;x-access-token&quot;)&amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; params: accessToken&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; };&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;send post request with&amp;nbsp;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Authorization header and param in body.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-19" value="&lt;div style=&quot;text-align: left&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Authorization: &quot;Bearer &quot; + cookies.get(&quot;x-access-token&quot;)&amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; params: accessToken&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; };&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;send post request with&amp;nbsp;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Authorization header and param in body.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="605" y="465" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-20" value="&lt;span style=&quot;text-align: left&quot;&gt;response:&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;data&quot;: {&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;user_id&quot;: 1799,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;username&quot;: &quot;i_mostlyrock@yahoo.com&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;exp&quot;: 1632732492,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;email&quot;: &quot;i_mostlyrock@yahoo.com&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;orig_iat&quot;: 1632731892&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;success&quot;: true,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;message&quot;: null,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;status&quot;: 200&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-20" value="&lt;span style=&quot;text-align: left&quot;&gt;response:&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;data&quot;: {&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;user_id&quot;: 1799,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;username&quot;: &quot;i_mostlyrock@yahoo.com&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;exp&quot;: 1632732492,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;email&quot;: &quot;i_mostlyrock@yahoo.com&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;orig_iat&quot;: 1632731892&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;success&quot;: true,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;message&quot;: null,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;status&quot;: 200&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="595" y="690" width="180" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="dkXeMGnDIzjb-UDgSz1t-21" value="After executing decode function&amp;nbsp;&lt;span&gt;it programatically redirect the app to route:&amp;nbsp;&#39;/customer-dashboard/overview&#39;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="dkXeMGnDIzjb-UDgSz1t-21" value="After executing decode function&amp;nbsp;&lt;span&gt;it programatically redirect the app to route:&amp;nbsp;&#39;/customer-dashboard/overview&#39;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="100" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YgphrQ-HzJ98DzVsXcjo-1" value="&lt;b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; login function &lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Under method option of page&lt;/li&gt;&lt;li&gt;File location: pages/login/index.js&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="265" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Pnix0ZAb74mXDksW6-I8" name="Page-2">
+    <mxGraphModel dx="796" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="hT0jQpoStUhryJx79ZvE-0" />
+        <mxCell id="hT0jQpoStUhryJx79ZvE-1" parent="hT0jQpoStUhryJx79ZvE-0" />
+        <mxCell id="tXVY1XOYNxN9NRKzwygK-0" value="Login Button" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="hT0jQpoStUhryJx79ZvE-1">
+          <mxGeometry x="320" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tXVY1XOYNxN9NRKzwygK-1" value="Click" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="hT0jQpoStUhryJx79ZvE-1">
+          <mxGeometry x="320" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H7jGJqUMmzlKxgVP6k0X-0" value="&lt;b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; login function &lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Under method option of page&lt;/li&gt;&lt;li&gt;File location: pages/login/index.js&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="hT0jQpoStUhryJx79ZvE-1">
+          <mxGeometry x="270" y="280" width="265" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
