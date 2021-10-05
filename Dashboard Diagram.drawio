@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T11:51:37.305Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ED1Ojvrk4FLFLyngAmFM" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T12:04:46.452Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="20Wu2JsMPr5OXQKaPvNZ" version="15.4.1" type="github">
   <diagram id="ioY0ojsEJk001kWQGyVm" name="Page-1">
     <mxGraphModel dx="2077" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,11 +89,14 @@
         <mxCell id="ybfvdOmk_7Jk57g_GL5A-30" value="&lt;b&gt;&amp;nbsp; &amp;nbsp; Method: historicaData&lt;/b&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="1230" width="250" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ybfvdOmk_7Jk57g_GL5A-31" value="create (life cycle hook)&lt;br&gt;&lt;br&gt;Dispatch totalAUM&lt;b&gt;(action) &lt;/b&gt;with params object&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="ybfvdOmk_7Jk57g_GL5A-31" value="create (life cycle hook)&lt;br&gt;&lt;br&gt;Dispatch index&lt;b&gt;(action) &lt;/b&gt;of&lt;b&gt;&amp;nbsp;&lt;/b&gt;totalAUM&lt;b&gt;(store)&amp;nbsp;&lt;/b&gt;with params object&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="1720" width="519" height="680" as="geometry" />
         </mxCell>
         <mxCell id="ybfvdOmk_7Jk57g_GL5A-33" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;params&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; user_id: STORAGE.getSessionStorage(&quot;userId&quot;),&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; from_date: newDateWithFromat,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; to_date: currentDateWithFormat,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; page_size:20&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="451" y="1820" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ybfvdOmk_7Jk57g_GL5A-34" value="index&lt;b&gt;(action)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Send GET request&amp;nbsp; with:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Access token in Authorization request header&lt;/li&gt;&lt;li&gt;&amp;nbsp;params in request body&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2050" width="540" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
